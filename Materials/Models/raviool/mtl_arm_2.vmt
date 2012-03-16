@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/raviool/mtl_arm_2"
+	"$surfaceprop" "metal"
+}

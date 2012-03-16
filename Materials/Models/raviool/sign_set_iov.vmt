@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/raviool/sign_set_iov"
+	"$alphatest" 1
+}

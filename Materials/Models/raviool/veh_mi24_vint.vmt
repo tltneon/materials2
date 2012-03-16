@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/raviool/veh_mi24_vint"
+	"$translucent" 1
+}

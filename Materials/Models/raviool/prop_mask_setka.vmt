@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/raviool/prop_mask_setka"
+	"$alphatest" 1
+	"$translucent" 1
+}

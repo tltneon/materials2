@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/raviool/veh_bochka_pricep"
+	"$alphatest" 1
+}
