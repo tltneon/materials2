@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\stalker_nade\wpn_grenade"
+
+                 "$bumpmap" "models\weapons\v_models\stalker_nade\wpn_grenade_normal"
+
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hgn/srp/devices/detector2"
+	"$bumpmap" "models/hgn/srp/devices/detector2-b"
+}

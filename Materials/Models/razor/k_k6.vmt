@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\razor\k_k6"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models\razor\k_k6_normal"
+	//"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .6 .6 .6]"
+}

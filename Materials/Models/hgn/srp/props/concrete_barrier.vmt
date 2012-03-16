@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\hgn\srp\props\concrete_barrier"
+	//"$bumpmap"	   "models\hgn\srp\props\concrete_barrier_n"
+}

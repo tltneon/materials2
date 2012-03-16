@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\stalkertex\blinddog\act_dogs_brown"
+        "$bumpmap"    "models\stalkertex\blinddog\act_dogs_brown_bump"
+	"$model" "1"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" 5
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[0.2 0.5 0.8]"
+
+
+}

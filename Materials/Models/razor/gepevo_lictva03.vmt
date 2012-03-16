@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\razor\gepevo_lictva03"
+	"$alphatest" "1"
+	"$nocull" "1"
+}

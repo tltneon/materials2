@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\hgn\srp\vehicles\uaz\veh_uazik_new"
+	"$bumpmap" "models\hgn\srp\vehicles\uaz\veh_uazik_new_normal"
+}

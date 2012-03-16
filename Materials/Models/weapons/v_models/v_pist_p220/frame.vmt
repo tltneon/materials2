@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\v_pist_p220\frame"
+	"$bumpmap" "models\weapons\v_models\v_pist_p220\frame_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+
+	"$phong" "1"
+	"$phongexponenttexture" "models\weapons\v_models\v_pist_p220\frame_exp"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 4 2]"
+}

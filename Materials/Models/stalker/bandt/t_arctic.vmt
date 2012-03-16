@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\stalker\bandt\t_arctic"
+	 "$bumpmap" "models/stalker/bandt\t_arctic_normal"
+}

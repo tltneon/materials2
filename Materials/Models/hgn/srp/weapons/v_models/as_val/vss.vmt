@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\hgn\srp\weapons\v_models\AS_VAL\vss"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\hgn\srp\weapons\v_models\AS_VAL\vss_ref"
+}

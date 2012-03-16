@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\srp\items\doggrey"
+	"$bumpmap" "models\hgn\srp\items\dog-b"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/srp/items/art_slime/slime2"
+	"$translucent" "1"
+}

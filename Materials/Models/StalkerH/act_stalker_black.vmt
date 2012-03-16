@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/StalkerH/act_stalker_black"
+	"$bumpmap" "models\StalkerH\act_stalker_normal"
+	"$model" "1"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" 5
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[0.1 0.1 0.1]"
+	"$rimlight" "1"									
+	"$rimlightexponent" "5"								
+	"$rimlightboost" "0.8"
+}

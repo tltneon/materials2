@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\stalker\bandit\sp_mask1"
+"$bumpmap"  "models\stalker\bandit\sp_mask1_n"
+
+}

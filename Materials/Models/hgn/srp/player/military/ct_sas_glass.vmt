@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\hgn\srp\player\military\ct_sas_glass"
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "models\hgn\srp\player\military\ct_sas_glass_spec"
+	"$translucent" 1
+	
+	
+}
+

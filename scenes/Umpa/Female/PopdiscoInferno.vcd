@@ -1,0 +1,37 @@
+// Choreo version 1
+event loop "Loop"
+{
+  time 29.582964 -1.000000
+  param "0.000000"
+  loopcount "-1"
+}
+actor "Umpa"
+{
+  channel "DanceTest"
+  {
+    event gesture "Pop"
+    {
+      time 0.049630 14.849630
+      param "Pop_DiscoInferno"
+      sequenceduration 14.800000
+    }
+    event gesture "Pop"
+    {
+      time 14.782964 29.582964
+      param "Pop_DiscoInferno"
+      sequenceduration 14.800000
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "20"
+  "RampTool" "100"
+  "SceneRampTool" "100"
+  "GestureTool" "100"
+  "ExpressionTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

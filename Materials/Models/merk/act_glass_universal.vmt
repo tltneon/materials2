@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/merk/act_glass_universal"
+	"$envmap" 			"env_cubemap"
+	"$model" "1"
+	"$halflambert" "1"
+}

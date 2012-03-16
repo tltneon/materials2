@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\srp\suits\stalker-sunrise"
+	"$bumpmap" "models\hgn\srp\suits\stalker3-bump"
+	"$surfaceprop" "ArmorFlesh"
+}

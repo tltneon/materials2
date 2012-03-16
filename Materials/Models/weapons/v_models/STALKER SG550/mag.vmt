@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	"$translucent" 1	
+	"$baseTexture" "models\weapons\v_models\havoc.sg552\mag"
+	"$nocull" 1
+	"$bumpmap" "models\weapons\v_models\havoc.sg552\mag_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}
+
+

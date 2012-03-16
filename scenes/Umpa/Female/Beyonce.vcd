@@ -1,0 +1,31 @@
+// Choreo version 1
+event loop "1"
+{
+  time 6.306666 -1.000000
+  param "0.000000"
+  loopcount "-1"
+}
+actor "Umpa"
+{
+  channel "DanceTest"
+  {
+    event gesture "BeyonceDance"
+    {
+      time 0.000000 6.293334
+      param "beyonce1"
+      sequenceduration 6.333333
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "SceneRampTool" "100"
+  "GestureTool" "100"
+  "ExpressionTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\stalker\002B_F"
+	
+	 "$bumpmap" "models/stalker\002B_F_n"
+	
+}

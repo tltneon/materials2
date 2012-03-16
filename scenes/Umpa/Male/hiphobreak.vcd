@@ -1,0 +1,36 @@
+// Choreo version 1
+event loop "Loop"
+{
+  time 20.441666 -1.000000
+  param "0.000000"
+  loopcount "-1"
+}
+actor "Umpa"
+{
+  channel "Dance"
+  {
+    event gesture "HipHopBreak"
+    {
+      time 0.208334 20.487501
+      param "MHipHopBreak"
+      sequenceduration 19.799999
+    }
+    event gesture "NULL"
+    {
+      time 0.023810 0.178572
+      param ""
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "32"
+  "RampTool" "100"
+  "SceneRampTool" "100"
+  "GestureTool" "100"
+  "ExpressionTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/stalker/niggers/whyamisodrunk"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/stalker/niggers/sippinonginandjuice"
+	"$translucent" 1	
+}
+

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\stalker_ak74\wpn_ak74"
+	"$phong" "1"
+	"$phongexponenttexture" "models\weapons\v_models\stalker_ak74\wpn_ak74_exp"
+	"$phongexponent" "10"
+	"$phongboost" "0.8"	
+	"$phongfresnelranges"	"[1 1 1]"
+      	"$bumpmap" "models\weapons\v_models\stalker_ak74\wpn_ak74_normal"
+}

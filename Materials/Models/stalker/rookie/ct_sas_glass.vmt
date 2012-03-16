@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/stalker/ct_sas_glass"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/stalker/ct_sas_glass_spec"
+	
+}
+

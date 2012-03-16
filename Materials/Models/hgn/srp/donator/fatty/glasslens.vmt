@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+	"$additive" 0
+	"$basetexture" "models\hgn\srp\donator\fatty\glasslens"
+	"$translucent" 1
+	"$envmapcontrast" "1"
+	"$model" 1
+	"$halflambert" 1
+	"UnlitGeneric_DX8"
+{
+	"$envmaptint" "[.4 .4 .4]"
+} 
+}

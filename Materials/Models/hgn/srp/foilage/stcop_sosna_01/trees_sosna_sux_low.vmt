@@ -1,0 +1,5 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models\hgn\srp\foilage\stcop_sosna_01\trees_sosna_sux_low"
+      "$translucent" 1
+}

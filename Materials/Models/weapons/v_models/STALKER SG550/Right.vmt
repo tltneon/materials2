@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\STALKER SG550\Scope"
+      	"$bumpmap" "models/weapons\v_models\STALKER SG550\Scope_norm"
+	"$normalmapalphaenvmapmask" 1
+}

@@ -1,0 +1,31 @@
+// Choreo version 1
+event loop "loop"
+{
+  time 17.166666 -1.000000
+  param "0.000000"
+  loopcount "-1"
+}
+actor "Umpa"
+{
+  channel "DanceTest"
+  {
+    event gesture "SlutGirls"
+    {
+      time 0.100000 17.233332
+      param "SlutGirl"
+      sequenceduration 17.133333
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "20"
+  "RampTool" "100"
+  "SceneRampTool" "100"
+  "GestureTool" "100"
+  "ExpressionTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

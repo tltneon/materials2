@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/scntst/kleiner_sheet"
+	"$bumpmap" "Models/scntst/kleiner_sheet_normal"
+	"$halflambert" 1
+}

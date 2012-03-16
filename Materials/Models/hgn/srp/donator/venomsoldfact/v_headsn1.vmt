@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\srp\donator\venomsoldfact\v_headsn1"
+	"$bumpmap"    "models\hgn\srp\donator\venomsoldfact\v_headsn1_normal"
+}

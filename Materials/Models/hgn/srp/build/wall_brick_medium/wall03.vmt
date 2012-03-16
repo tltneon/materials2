@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "hgn/srp/brick/wall03"
+	"$bumpmap" "hgn/srp/brick/wall03_b"
+	"$surfaceprop" "brick"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$envmapcontrast" ".8"
+	"$envmapsaturation" ".5"
+}

@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\razor\mycopka1"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models\razor\mycopka1_normal"
+	//"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "1"
+	"$envmaptint" "[ .1 .1 .1]"
+}

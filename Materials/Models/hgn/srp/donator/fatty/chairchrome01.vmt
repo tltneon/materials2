@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\hgn\srp\donator\fatty\chairchrome01"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\hgn\srp\donator\fatty\chairchrome01_ref"
+}

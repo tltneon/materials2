@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"Models/stalkertex/hind/veh_mi24_br"
+
+	"$bumpmap" "Models/stalkertex/hind/veh_mi24_bump"
+
+
+	"$model" 1
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[2 5 8]"
+}
+
+
+

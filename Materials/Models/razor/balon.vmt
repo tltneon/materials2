@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\razor\balon"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models\razor\balon_normal"
+	//"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .4 .4 .4]"
+}

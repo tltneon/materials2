@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\hgn\srp\weapons\v_models\PKM\pkm"
+	"$bumpmap" "models\hgn\srp\weapons\v_models\PKM\pkm_norm"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}
+

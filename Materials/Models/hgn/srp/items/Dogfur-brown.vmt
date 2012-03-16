@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\srp\items\dogfur-brown"
+	$translucent 1
+}

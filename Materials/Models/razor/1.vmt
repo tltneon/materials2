@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\razor\1"
+	"$alphatest" "1"
+	"$nocull" "1"
+}

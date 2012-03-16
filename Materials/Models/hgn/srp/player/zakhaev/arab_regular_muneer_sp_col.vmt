@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\hgn\srp\player\zakhaev\arab_regular_muneer_sp_col"
+	"$bumpmap" "models\hgn\srp\player\zakhaev\arab_regular_muneer_sp_nml"
+}

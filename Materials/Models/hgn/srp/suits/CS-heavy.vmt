@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\srp\suits\CS-heavy-tex"
+	"$bumpmap" "models\hgn\srp\suits\CS-heavy-bump"
+}

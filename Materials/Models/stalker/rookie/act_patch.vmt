@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\stalker\rookie\act_patch"
+"$bumpmap"  "models\stalker\rookie\act_stalk_n"
+	"$phong" "1"
+	"$phongboost" "0.8"
+	"$phongexponent" 5
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[0.1 0.1 0.1]"
+	"$rimlight" "1"									
+	"$rimlightexponent" "5"								
+	"$rimlightboost" "0.8"
+}

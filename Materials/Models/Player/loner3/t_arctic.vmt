@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\player\loner3\t_arctic"
+	 "$bumpmap" "models/player/loner3\t_arctic_normal"
+}

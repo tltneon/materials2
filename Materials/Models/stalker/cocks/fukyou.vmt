@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\stalker\cocks\thisistheworstskin"
+//      "$envmap" 			"env_cubemap"
+//      "$bumpmap" "fuck you and your normal maps"
+//	"$normalmapalphaenvmapmask" 1
+//	"$envmapcontrast" 0.3
+//	"$envmapsaturation" 0.7
+//	"$envmaptint" "[ 0.36 0.36 0.36 ]"
+}

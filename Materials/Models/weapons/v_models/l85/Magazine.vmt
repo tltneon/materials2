@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\l85\Magazine"
+                "$envmap" "env_cubemap"
+	"$envmapmask" "models/weapons/v_models/l85/Magazine_ref"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\l85\SUSAT"
+                "$envmap" "env_cubemap"
+	"$envmapmask" "models/weapons/v_models/l85/SUSAT_ref"
+}

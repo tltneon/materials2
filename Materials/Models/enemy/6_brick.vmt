@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/enemy/6_brick"
+	"$surfaceprop" "brick"
+}

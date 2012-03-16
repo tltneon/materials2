@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\srp\items\bloodsucker"
+	"$bumpmap" "models\hgn\srp\items\bloodsucker-b"
+	$translucent 1
+}

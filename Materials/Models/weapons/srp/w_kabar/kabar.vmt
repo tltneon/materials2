@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\srp\w_kabar\Kabar"
+	"$bumpmap" "models\weapons\srp\w_kabar\Kabar_Normal"
+}

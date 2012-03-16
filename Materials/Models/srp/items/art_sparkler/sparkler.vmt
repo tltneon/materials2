@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/srp/items/art_sparkler/sparkler"
+	"$translucent" "1"
+	"$envmapmask" "Models/srp/items/art_sparkler/sparkler"
+	"$selfillum_envmapmask_alpha" "1"
+}

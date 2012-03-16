@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\havoc.sg552\reciever"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\havoc.sg552\reciever_ref"
+}

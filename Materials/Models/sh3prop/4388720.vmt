@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\sh3prop/4388720"
+	"$halflambert" 1
+}

@@ -1,0 +1,5 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models\hgn\mrp\props\radio\props_radar_peredatcik"
+      "$surfaceprop" "metal"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\srp\player\specnazberet\act_soldier_head"
+	//"$bumpmap"	"models\hgn\srp\player\specnaz\slow_bump2"
+	"$halflambert" 1
+	"$normalmapalphaenvmapmask" 1
+}

@@ -1,0 +1,31 @@
+// Choreo version 1
+event loop "Loop"
+{
+  time 35.500000 -1.000000
+  param "0.000000"
+  loopcount "-1"
+}
+actor "Umpa"
+{
+  channel "Dance"
+  {
+    event gesture "BillieJean"
+    {
+      time 0.160000 35.826664
+      param "MBillieJean"
+      sequenceduration 35.666668
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "4"
+  "RampTool" "100"
+  "SceneRampTool" "100"
+  "GestureTool" "100"
+  "ExpressionTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

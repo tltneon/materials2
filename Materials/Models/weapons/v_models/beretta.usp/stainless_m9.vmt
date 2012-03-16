@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture" "models\weapons\v_models\beretta.usp\stainless_m9"
+	"$envmapmask" "models\weapons\v_models\beretta.usp\stainless_m9_ref"
+	"$envmap" "env_cubemap"
+}

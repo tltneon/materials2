@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\l85\Gadgets"
+	"$bumpmap" "models/weapons/v_models/l85/Gadgets_norm"
+	"$normalmapalphaenvmapmask" 1
+}

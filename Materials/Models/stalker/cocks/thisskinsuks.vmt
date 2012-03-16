@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/stalker/cocks/ihaveeverseen"
+	
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "models/stalker/cocks/heyfuckyoubuddy"
+
+
+// Transparency
+	"$translucent" 1
+	
+	
+}
+

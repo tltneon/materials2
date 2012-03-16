@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/stalker/dx/act_st_exoskel_tank_dueteee"
+	"$bumpmap" "models/stalker/dx/act_st_exoskel_tank_dueteee_normal"
+}
