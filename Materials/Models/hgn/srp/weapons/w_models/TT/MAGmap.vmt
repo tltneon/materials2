@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\hgn\srp\weapons\w_models\TT\MAGtap"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\hgn\srp\weapons\w_models\TT\MAGtap_ref"
+}
