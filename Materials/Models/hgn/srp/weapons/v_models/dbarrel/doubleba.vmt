@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\hgn\srp\weapons\v_models\dbarrel\dif"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+}
