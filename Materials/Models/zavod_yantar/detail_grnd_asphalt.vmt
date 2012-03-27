@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/zavod_yantar/detail_grnd_asphalt"
+	"$detail" "zavod_yantar/detail_grnd_asphalt_detail"
+	"$detailscale" "1.9"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1"
+
+	
+}

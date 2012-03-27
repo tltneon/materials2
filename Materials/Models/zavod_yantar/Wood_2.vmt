@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	
+	"$basetexture" "models/zavod_yantar/Wood_2"
+	"$surfaceprop" "Wood"
+}

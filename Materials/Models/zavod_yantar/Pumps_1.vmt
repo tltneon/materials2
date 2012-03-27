@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "Models/zavod_yantar/Pumps_1"
+	"$surfaceprop" "metal"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/zavod_yantar/zaz"
+	"$bumpmap" "models\zavod_yantar\zaz_normal"
+}

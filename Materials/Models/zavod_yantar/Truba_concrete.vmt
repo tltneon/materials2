@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\zavod_yantar\Truba_concrete"
+	"$bumpmap" "models\zavod_yantar\Truba_concrete_normal"
+	
+}

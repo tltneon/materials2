@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/zavod_yantar/Door_metal"
+	"$surfaceprop" "metal"
+}

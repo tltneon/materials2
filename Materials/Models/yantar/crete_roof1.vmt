@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "Models/yantar/crete_roof1"
+        "$bumpmap" "Models/yantar/crete_roof1_normal"
+
+}
