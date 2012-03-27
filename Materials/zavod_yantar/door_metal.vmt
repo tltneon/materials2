@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	"$basetexture"	"zavod_yantar\door_metal"
+	"$surfaceprop" "metal"
+}
