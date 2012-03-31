@@ -1,6 +1,6 @@
 "vertexlitgeneric"
 {
 	"$basetexture" "Models/yantar/crete_bottom"
-	"$bumpmap" "Models/yantar/crete_bottom_normal"
+	"$bumpmap" "models\zavod_yantar\Truba_concrete_normal"
 
 }
