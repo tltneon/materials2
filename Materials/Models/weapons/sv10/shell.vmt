@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	$baseTexture				"models/weapons/sv10/shell"
+	$halflambert "1"	
+	$model "1"
+
+}

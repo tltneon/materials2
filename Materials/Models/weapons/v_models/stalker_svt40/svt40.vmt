@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\stalker_svt40/svt40"
+"$nocull" "1" 
+	"$halflambert" 				"1"	
+}
