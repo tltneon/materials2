@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "srp/metal/wall_metal_light01"
+	"$surfaceprop" "metal"
+
+	"$phong"			"1"
+
+	"$bumpmap"		"srp/metal/wall_metal_light01_bump"
+	"$phongexponenttexture"	"srp/metal/wall_metal_light01_spec"
+	"$phongboost"		"1"
+	"$phongfresnelranges"	"[.2 .2 .2]"
+}

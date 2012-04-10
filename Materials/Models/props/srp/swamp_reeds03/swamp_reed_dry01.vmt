@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "srp/nature/swamp_reed_dry01"
+	"$surfaceprop" "grass"
+	"$nocull" "1"
+	"$alphatest" "1"
+}

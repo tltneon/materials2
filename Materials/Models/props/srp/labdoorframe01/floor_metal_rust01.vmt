@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "srp/metal/floor_metal_rust01"
+	"$surfaceprop" "metal"
+}
