@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"models/hgn/srp/srpmutants/snork1"
+	"$bumpmap" 					"models/hgn/srp/srpmutants/snork_normal"
+	
+	"$halflambert" 				"1"	
+	
+    "$phong" 					"1"
+	"$phongexponenttexture" 	"models/hgn/srp/srpmutants/snork_normal"
+	"$phongboost"				"1"
+	"$phongfresnelranges"		"[0.4 0.4 0.4]"
+	"$rimlight" 				"1"
+	"$rimlightexponenttexture" 	"models/hgn/srp/srpmutants/snork_normal"									
+	"$rimlightexponent" 		"0.5"								
+	"$rimlightboost" 			"0.1"
+
+
+}
