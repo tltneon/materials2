@@ -1,5 +1,4 @@
 "VertexLitGeneric"
 {
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Weapons/v_binoculars/binocular2"
+	"$basetexture" "models/weapons/v_binoculars/binocular2"
 }
