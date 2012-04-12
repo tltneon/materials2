@@ -1,0 +1,1145 @@
+//1911
+"Weapon_1911.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.6"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave" "hgn/stalker/weapons/1911/deagle-1.wav"
+		"wave" "hgn/stalker/weapons/1911/deagle-2.wav"
+		"wave" "hgn/stalker/weapons/1911/deagle-3.wav"
+		"wave" "hgn/stalker/weapons/1911/deagle-4.wav"
+		"wave" "hgn/stalker/weapons/1911/deagle-5.wav"
+		"wave" "hgn/stalker/weapons/1911/deagle-6.wav"
+		"wave" "hgn/stalker/weapons/1911/deagle-7.wav"
+	}
+}
+
+"Weapon_1911.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/1911/colt_clipout.wav"
+}
+
+"Weapon_1911.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/1911/colt_clipin.wav"
+}
+
+"Weapon_1911.Sliderelease"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/1911/colt_sliderelease.wav"
+}
+
+"Weapon_1911.Safety"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/1911/colt_safety.wav"
+}
+
+//Abakan
+"Weapon_Abakan.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/abakan/galil-1.wav"
+}
+
+"Weapon_Abakan.Boltpull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/abakan/galil_slide.wav" 
+}
+
+"Weapon_Abakan.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/abakan/galil_clipout.wav" 
+}
+
+"Weapon_Abakan.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/abakan/galil_clipin.wav" 
+}
+
+//AK74
+"Weapon_AK74.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/ak74/ak47-1.wav"
+	
+}
+
+"Weapon_AK74.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/ak74/ak47_clipout.wav" 
+}
+
+"Weapon_AK74.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/ak74/ak47_clipin.wav" 
+}
+
+"Weapon_AK74.Boltpull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/ak74/ak47_boltpull.wav" 
+}
+
+//AK74u
+"Weapon_AK74u.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+
+	"wave"		"hgn/stalker/weapons/ak74u/ak47-1.wav"
+}
+
+"Weapon_AK74u.Boltpull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/ak74u/bolt.pull.wav"
+}
+
+"Weapon_AK74u.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/ak74u/mag.out.wav"
+}
+
+"Weapon_AK74u.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/ak74u/mag.in.wav"
+}
+
+//Beretta
+"Weapon_Beretta.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave" "hgn/stalker/weapons/beretta/usp_unsil-1.wav"
+		"wave" "hgn/stalker/weapons/beretta/usp_unsil-2.wav"
+	}
+}
+
+"Weapon_Beretta.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"hgn/stalker/weapons/beretta/usp_clipout.wav"
+	
+}
+
+"Weapon_Beretta.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"hgn/stalker/weapons/beretta/usp_clipin.wav"
+	
+}
+
+"Weapon_Beretta.Sliderelease"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"hgn/stalker/weapons/beretta/usp_sliderelease.wav"
+	
+}
+
+//Desert Eagle
+"Weapon_DesertEagle.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.6"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/deagle/deagle-1.wav"
+	
+}
+
+"Weapon_DesertEagle.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/deagle/de_clipout.wav"
+}
+
+"Weapon_DesertEagle.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/deagle/de_clipin.wav"
+}
+
+"Weapon_DesertEagle.Deploy"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/DEagle/de_deploy.wav"
+}
+
+"Weapon_DesertEagle.Slideback"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/deagle/de_slideback.wav"
+}
+
+//F2000
+"Weapon_F2000.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.48"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/F2000/F2000_fire.wav"
+}
+
+"Weapon_F2000.Boltpull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/F2000/F2000_boltback.wav"
+}
+
+"Weapon_F2000.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/F2000/F2000_magout.wav"
+}
+
+"Weapon_F2000.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/F2000/F2000_magin.wav"
+}
+
+"Weapon_F2000.Boltslap"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/F2000/F2000_boltforward.wav"
+}
+
+"Weapon_F2000.Forearm"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/aug/aug_forearm.wav"
+}
+
+//Fort 12
+"Weapon_Fort12.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/fort12/fiveseven-1.wav"
+}
+
+"Weapon_Fort12.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/fort12/fiveseven_clipout.wav"
+}
+
+"Weapon_Fort12.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/fort12/fiveseven_clipin.wav"
+}
+
+"Weapon_Fort12.Sliderelease"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/fort12/fiveseven_sliderelease.wav"
+}
+
+"Weapon_Fort12.Slidepull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/fort12/fiveseven_slidepull.wav"
+}
+
+"Weapon_Fort12.Slideback"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/fort12/fiveseven_slideback.wav"
+}
+
+//G36
+"Weapon_G36.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.48"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/g36/sg552-1.wav"
+	
+}
+
+"Weapon_G36.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/g36/clipout.wav"
+}
+
+"Weapon_G36.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/g36/clipin.wav"
+}
+
+"Weapon_G36.Boltpull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/g36/boltpull.wav"
+}
+
+"Weapon_G36.Clipfiddle"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/g36/clipfiddle.wav"
+}
+
+"Weapon_G36.Boltreceive"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/g36/boltreceive.wav"
+}
+
+"Weapon_G36.Boltfly"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/g36/boltfly.wav"
+}
+
+//Groza
+"Weapon_Groza.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.48"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/groza/famas-1.wav"
+	
+}
+
+"Weapon_Groza.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/groza/famas_clipout.wav"
+}
+
+"Weapon_Groza.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/groza/famas_clipin.wav"
+}
+
+"Weapon_Groza.Forearm"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/groza/famas_forearm.wav"
+}
+
+//L85
+"Weapon_L85.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.48"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/l85/aug-1.wav"
+}
+
+"Weapon_L85.Boltpull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/aug/aug_boltpull.wav"
+}
+
+"Weapon_L85.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/aug/aug_clipout.wav"
+}
+
+"Weapon_L85.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/aug/aug_clipin.wav"
+}
+
+"Weapon_L85.Boltslap"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/aug/aug_boltslap.wav"
+}
+
+"Weapon_L85.Forearm"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/aug/aug_forearm.wav"
+}
+
+//LR300
+"Weapon_LR300.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/lr300/m4a1_unsil-1.wav"
+	
+}
+
+"Weapon_LR300.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/lr300/m4a1_clipout.wav"
+}
+
+"Weapon_LR300.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/lr300/m4a1_clipin.wav"
+}
+
+"Weapon_LR300.Boltpull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/lr300/m4a1_boltpull.wav"
+}
+
+"Weapon_LR300.Deploy"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/lr300/m4a1_deploy.wav"
+}
+
+//MP5
+"Weapon_MP5.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	
+	"CompatibilityAttenuation"	"0.64"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/mp5/mp5-1.wav"
+	
+}
+
+"Weapon_MP5.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/mp5/mp5_clipout.wav" 
+}
+
+"Weapon_MP5.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/mp5/mp5_clipin.wav" 
+}
+
+"Weapon_MP5.Slideback"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/mp5/mp5_slideback.wav" 
+}
+
+//P220
+"Weapon_P220.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/p220/p228-1.wav"
+}
+
+"Weapon_P220.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/p220/clipout.wav" 
+}
+
+"Weapon_P220.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/p220/clipin.wav" 
+}
+
+"Weapon_P220.Sliderelease"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/p220/sliderelease.wav" 
+}
+
+"Weapon_P220.Slidepull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/p220/slidepull.wav" 
+}
+
+"Weapon_P220.Slideback"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/p220/slideback.wav" 
+}
+
+//Sig550
+"Weapon_Sig550.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.48"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave" "hgn/stalker/weapons/sig550/sg552-1.wav"
+		"wave" "hgn/stalker/weapons/sig550/sg552-2.wav"
+	}
+}
+
+"Weapon_Sig550.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/sig550/clipout.wav"
+}
+
+"Weapon_Sig550.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/sig550/clipin.wav"
+}
+
+"Weapon_Sig550.Boltpull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/sig550/boltpull.wav"
+}
+
+//SVD
+"Weapon_SVD.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.40"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/svd/g3sg1-1.wav"
+}
+
+"Weapon_SVD.Slide"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/svd/g3sg1_slide.wav" 
+}
+
+"Weapon_SVD.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/svd/g3sg1_clipout.wav" 
+}
+
+"Weapon_SVD.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/svd/g3sg1_clipin.wav" 
+}
+
+//Vintorez
+"Weapon_Vintorez.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.40"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/vintorez/sg550-1.wav"
+}
+
+"Weapon_Vintorez.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/vintorez/sg550_clipout.wav" 
+}
+
+"Weapon_Vintorez.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/vintorez/sg550_clipin.wav" 
+}
+
+"Weapon_Vintorez.Move"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/vintorez/move.wav" 
+}
+
+"Weapon_Vintorez.Boltback"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/vintorez/boltback.wav" 
+}
+
+"Weapon_Vintorez.Boltforward"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/vintorez/boltforw.wav" 
+}
+
+"Weapon_Vintorez.Cloth"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/vintorez/cloth.wav" 
+}
+
+//W1300
+"Weapon_W1300.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.48"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/w1300/m3-1.wav"
+}
+
+
+
+"Weapon_W1300.Insertshell"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/w1300/m3_insertshell.wav"
+}
+
+"Weapon_W1300.Pump"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/w1300/m3_pump.wav"
+}
+//Pkm
+"Pkm.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"		"PITCH_NORM"
+
+	"wave"		"hgn/stalker/weapons/pkm/pkm_shoot.wav"
+}
+
+"Pkm.Coverup"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/pkm/pkm_coverup.wav"
+}
+
+"Pkm.Boxout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/pkm/pkm_boxout.wav"
+}
+
+"Pkm.Boxin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/pkm/pkm_boxin.wav"
+}
+
+"Pkm.Chain"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/pkm/pkm_chain.wav"
+}
+
+"Pkm.Coverdown"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/pkm/pkm_coverdown.wav"
+}
+
+//Toz
+"Toz.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.48"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/toz34/toz34_shoot.wav"
+}
+
+
+
+"Toz.Insertshell"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/toz34/toz34_reload_1.wav"
+}
+
+
+"Toz.Deploy"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/toz34/toz34_draw.wav"
+}
+
+
+//Val
+"Val.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.48"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/val/val_shoot.wav"
+}
+
+"Val.Boltpull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/val/val_reload.wav"
+}
+
+"Val.Deploy"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/val/val_draw.wav"
+}
+
+//Bulldog6
+"Bulldog6.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.48"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/b6/b6_fire.wav"
+	
+}
+
+"Bulldog6.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/b6/b6_reload.wav"
+}
+
+"Bulldog6.Deploy"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/b6/b6_draw.wav"
+}
+
+//PB
+"PB.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/b6/pb_shoot.wav"
+}
+
+"PB.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/fort12/fiveseven_clipout.wav"
+}
+
+"PB.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/fort12/fiveseven_clipin.wav"
+}
+
+"PB.Sliderelease"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/fort12/fiveseven_sliderelease.wav"
+}
+
+"PB.Slidepull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/fort12/fiveseven_slidepull.wav"
+}
+
+"PB.Slideback"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"hgn/stalker/weapons/fort12/fiveseven_slideback.wav"
+}
