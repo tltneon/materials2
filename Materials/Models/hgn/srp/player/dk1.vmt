@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 		"models/hgn/srp/player/dk1"
+	"$halflambert" 1
+}
+

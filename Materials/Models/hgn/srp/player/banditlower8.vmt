@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"models/hgn/srp/player/banditlower8"
+	"$bumpmap" 					"models/hgn/srp/player/banditlower_normal"
+	
+	"$halflambert" 				"1"	
+	
+    "$phong" 					"0.5"
+	"$phongexponenttexture" 	"models/hgn/srp/player/banditlower_normal"
+	"$phongboost"				"1"
+	"$phongfresnelranges"		"[0.4 0.4 0.4]"
+
+	"$rimlight" 				"1"
+	"$rimlightexponenttexture" 	"models/hgn/srp/player/banditlower_normal"									
+	"$rimlightexponent" 		"0.5"								
+	"$rimlightboost" 			"0.1"
+
+		
+		
+}
