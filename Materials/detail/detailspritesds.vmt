@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$alphatest" "1"
+	"$basetexture" "detail/detailspritesds"
+	"$nocull" "1"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$receiveflashlight" "1"
+	"$allowalphatocoverage" "1"
+}
