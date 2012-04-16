@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
 	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_vehicles/zapor"
+	"$basetexture" "models\hgn\srp\vehicles\zapor"
 	"$surfaceprop" "solidmetal"
         "$envmap" "env_cubemap"
         "$basealphaenvmapmask" 1
