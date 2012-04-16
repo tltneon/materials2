@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\z-o-m-b-i-e/aim_Z_agroprom/87fd0a75"
+	"$bumpmap" "models\z-o-m-b-i-e/aim_Z_agroprom/87fd0a75_norm"
+	"$detail" "detail\noise_detail_01" 
+	"$detailscale" "7.74"
+	"$detailblendfactor" "0.8"
+	"$detailblendmode" "0"
+}

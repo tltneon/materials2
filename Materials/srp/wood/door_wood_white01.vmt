@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "srp/wood/door_wood_white01"
+	"$surfaceprop" "Wood_Solid"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "srp/metal/train01"
+	"$bumpmap" "srp/metal/train01_b"
+	"$surfaceprop" "wood"
+	"$alphatest" 1
+}

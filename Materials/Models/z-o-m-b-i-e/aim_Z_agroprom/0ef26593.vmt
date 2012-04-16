@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\z-o-m-b-i-e/aim_Z_agroprom/0ef26593"
+	"$alphatest" "1"
+	"$nocull" "1"
+}

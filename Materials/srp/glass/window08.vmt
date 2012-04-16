@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "srp/glass/window08"
+	"$bumpmap" "srp/glass/window08_b"
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$envmapcontrast" ".5"
+	"$envmapsaturation" ".7"
+}
