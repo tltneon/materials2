@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hgn\srp\world\door_electricunit_02"
+	"$bumpmap" "hgn\srp\world\door_electricunit_02_bump"
+	"$surfaceprop" "Wood_Panel"
+
+}

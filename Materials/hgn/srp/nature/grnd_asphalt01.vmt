@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "srp/nature/grnd_asphalt01"
+	"$surfaceprop" "Concrete"
+}

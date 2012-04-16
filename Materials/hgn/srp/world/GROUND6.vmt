@@ -1,0 +1,6 @@
+"LightmappedGeneric" 
+{
+"$basetexture" "srp/world/ground6" 
+"$surfaceprop" "concrete"
+"$bumpmap"    "srp/world/ground6_n"
+} 

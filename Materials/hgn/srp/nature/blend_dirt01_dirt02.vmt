@@ -1,0 +1,11 @@
+"WorldVertexTransition"
+{
+	"$basetexture" 	"srp/nature/dirt02"
+	"$basetexture2" "srp/nature/dirt01"
+	"$surfaceprop" 		"dirt"
+	"$surfaceprop2" 		"grass"
+	"$bumpmap"		"srp/nature/bump01"
+	"$bumpmap2"		"srp/nature/bump01"
+	"%detailtype"		"forest_floor_01"
+	"$blendmodulatetexture"         "srp/nature/modulate01"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "srp/world/brickwall01"
+	"$surfaceprop" "Rock"
+	"$surfaceprop2" "Rock"
+	"%keywords" "srp"
+}
