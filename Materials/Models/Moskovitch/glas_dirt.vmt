@@ -1,5 +1,5 @@
 "VertexLitGeneric"
 {
-	"$baseTexture" "models\Moskovitch/glas_dirt"
+	"$baseTexture" "models\hgn\srp\vehicles\moskovitch/glas_dirt"
 	"$translucent" 1
 }
