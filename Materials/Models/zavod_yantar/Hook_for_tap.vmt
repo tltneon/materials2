@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	
+	"$basetexture" "models/zavod_yantar/Hook_for_tap"
+	"$surfaceprop" "metal"
+}
