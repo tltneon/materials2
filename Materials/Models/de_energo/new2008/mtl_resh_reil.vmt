@@ -1,0 +1,9 @@
+"VertexLitGeneric" {
+"$baseTexture" "models/de_energo/new2008/mtl_resh_reil"
+"$model" 1
+"$alphatest" 1
+	"%compilepassbullets" 1
+	"$surfaceprop" "chainlink"
+	"$nocull" 1
+	"$nodecal" 1
+}
