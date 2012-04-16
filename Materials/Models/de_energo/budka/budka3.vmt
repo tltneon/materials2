@@ -1,0 +1,4 @@
+"VertexLitGeneric" {
+"$baseTexture" "models/de_energo/budka/budka3"
+"$model" 1
+}

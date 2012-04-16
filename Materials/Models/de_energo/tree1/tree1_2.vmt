@@ -1,0 +1,9 @@
+"VertexLitGeneric" {
+"$baseTexture" "models/de_energo/tree1/tree1_2"
+"$model" 1
+"$alphatest" 1
+	"%compilepassbullets" 1
+	"$surfaceprop" "chainlink"
+	"$nodecal" 1
+	"$nolod" 1
+}

@@ -1,0 +1,4 @@
+"VertexLitGeneric" {
+"$baseTexture" "models/de_energo/zabor/zabor3"
+"$model" 1
+}
