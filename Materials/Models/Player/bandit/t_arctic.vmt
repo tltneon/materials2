@@ -1,5 +1,5 @@
 VertexLitGeneric
 {
 	"$basetexture"	"models\stalker\bandt\t_arctic"
-	 "$bumpmap" "models/stalker/bandt\t_arctic_normal"
+	 "$bumpmap" "models/player/loner1\t_arctic_normal"
 }
