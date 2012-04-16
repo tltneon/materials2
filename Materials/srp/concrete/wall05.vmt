@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "srp/concrete/wall05"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "srp/concrete/wall05_b"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$envmapcontrast" ".8"
+	"$envmapsaturation" ".5"
+}

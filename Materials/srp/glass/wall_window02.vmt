@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "srp/glass/wall_window02"
+	"$surfaceprop" "Concrete"
+}

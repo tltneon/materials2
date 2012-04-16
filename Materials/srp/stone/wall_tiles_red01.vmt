@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "srp/stone/wall_tiles_red01"
+	"$surfaceprop" "Tile"
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "srp/metal/misc_metal_grate01"
+	"$surfaceprop" "Metal"
+	"$translucent" 1
+}

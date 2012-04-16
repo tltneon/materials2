@@ -1,0 +1,30 @@
+"Unlittwotexture"
+{
+	"$basetexture" "hgn/srp/hgnbannerscroll4"
+	"$texture2" "dev/dev_scanline"
+	"$translucent" "1"
+	"$additive" 1
+	"$nodecal" 1
+	"$surfaceprop" "glass"
+	"%compileNoLight" 1
+	"%compilepassbullets" 1
+
+		"Proxies"
+		{
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" .10
+			"texturescrollangle" 270
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" .10
+			"texturescrollangle" 90
+		}
+
+	}
+}

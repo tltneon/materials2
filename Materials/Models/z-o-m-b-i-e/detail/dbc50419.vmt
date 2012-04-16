@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models\z-o-m-b-i-e/detail/dbc50419"
+	"$alphatest" "1"
+	"$nocull" "1"
+}

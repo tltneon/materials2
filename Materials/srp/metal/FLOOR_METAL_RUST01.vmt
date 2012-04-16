@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "srp/metal/floor_metal_rust01"
+	"$surfaceprop" "Metal"
+}

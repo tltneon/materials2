@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "srp/nature/ivy01"
+	"$surfaceprop" "grass"
+	"$alphatest" 1
+	"$nocull" 1
+}

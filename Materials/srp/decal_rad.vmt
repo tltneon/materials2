@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	"$basetexture"	"srp/decal_rad"
+	"$decal" "1"
+        "$decalscale"	"0.1"
+	"$translucent"	"1"
+        "$modelmaterial" "srp/decal_rad_model"
+
+
+}

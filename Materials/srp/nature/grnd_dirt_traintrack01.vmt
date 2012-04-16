@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "srp/nature/grnd_dirt_traintrack01"
+	"$surfaceprop" "Gravel"
+	"$translucent" 1
+	"$decal" 1
+}

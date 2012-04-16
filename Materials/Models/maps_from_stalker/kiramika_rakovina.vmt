@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/maps_from_stalker/kiramika_rakovina"
+	"$bumpmap" "Models/maps_from_stalker/kiramika_rakovina_normal"
+	"%keywords" "maps_from_stalker"
+}
