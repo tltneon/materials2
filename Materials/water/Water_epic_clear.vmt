@@ -4,7 +4,7 @@
 	"$abovewater" 1
 	"%compilewater" 1
 	"$forceexpensive" 1
-	"$reflectentities" 0
+	"$reflectentities" 1
 	"$envmap" "env_cubemap"
 	"%tooltexture" "nature/water_frame01_normal"
 	"$refracttexture" "_rt_WaterRefraction"
@@ -20,12 +20,12 @@
 	"$normalmap" "water/water_epic_normal"
 
 	"$surfaceprop" "water"
-	"$bottommaterial" "water/Sewer_beneath"
+	"$bottommaterial" "water/Clear_beneath"
 	"$bumpframe" "0"
 
-	"$fogenable" 1
-	"$fogcolor" "{66 66 33 }"
-	"$fogstart" 100.00
+	"$fogenable" 0
+	"$fogcolor" "{105 125 130 }"
+	"$fogstart" 200.00
 	"$fogend" 500.00
 
 	"$scroll1" "[.0001 .01 .01]"

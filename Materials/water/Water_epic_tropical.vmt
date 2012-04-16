@@ -20,11 +20,11 @@
 	"$normalmap" "water/water_epic_normal"
 
 	"$surfaceprop" "water"
-	"$bottommaterial" "water/Sewer_beneath"
+	"$bottommaterial" "water/Tropical_beneath"
 	"$bumpframe" "0"
 
 	"$fogenable" 1
-	"$fogcolor" "{66 66 33 }"
+	"$fogcolor" "{00 195 190 }"
 	"$fogstart" 100.00
 	"$fogend" 500.00
 

@@ -21,10 +21,10 @@
 	"$surfaceprop" "water"
 	"$bumpframe" "0"
 
-	"$fogenable" 1
-	"$fogcolor" "{66 66 33}"
-	"$fogstart" -256.00
-	"$fogend" 512.00
+	"$fogenable" 0
+	"$fogcolor" "{105 125 130}"
+	"$fogstart" 200
+	"$fogend" 500
 
 	$underwateroverlay "effects/water_warp01"
 

@@ -22,7 +22,7 @@
 	"$bumpframe" "0"
 
 	"$fogenable" 1
-	"$fogcolor" "{66 66 33}"
+	"$fogcolor" "{00 195 190}"
 	"$fogstart" -256.00
 	"$fogend" 512.00
 
