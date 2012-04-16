@@ -1,13 +1,12 @@
-LightmappedGeneric
+"LightmappedGeneric"
 {
-	"$basetexture"	"zavod_yantar\pol_angar"
-	"$surfaceprop" "concrete"
-
+	"$basetexture" "srp/stone/floor_tile_red01"
+	"$surfaceprop" "tile"
+	
 	"$envmap" "env_cubemap"
-	"$bumpmap" "zavod_yantar\pol_angar_normal"
+	"$bumpmap"    "srp/stone/floor_tile_red01_n"
 	"$normalmapalphaenvmapmask" 1
 	"$envmapsaturation" 1
 	"$envmapcontrast" 1
 	"$envmaptint" "[ .25 .25 .25 ]"
-
 }
