@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "Models/yantar/kran01"
+	"$surfaceprop" "metal"
+}
