@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "srp/concrete/roof01"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "srp/concrete/roof01_b"
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$envmapcontrast" ".8"
+	"$envmapsaturation" ".5"
+}

@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	"$basetexture"	"hgn/srp/decal/decal_poster2"
+	"$decal" "1"
+        "$decalscale"	"0.1"
+	"$translucent"	"1"
+        "$modelmaterial" "hgn/srp/decal/decal_poster2_model"
+
+
+}

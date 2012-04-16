@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hgn/srp/decal/decal_vine_dried_up"
+	"$bumpmap" "hgn/srp/decal/decal_vine_dried_up"
+	"$translucent" 1
+	"$decal" "1"
+	"$decalscale"	"0.1"
+}

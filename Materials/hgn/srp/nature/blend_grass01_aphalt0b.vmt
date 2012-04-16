@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture" 		"srp/nature/grnd_asphalt01"
+	"$basetexture2" 		"srp/nature/grass01"
+	"$surfaceprop" 		"concrete"
+	"$surfaceprop2" 		"dirt"
+	"$bumpmap"		"srp/nature/bump01"
+	"$bumpmap2"		"srp/nature/bump01"
+	"$blendmodulatetexture"         "srp/nature/modulate01"
+}

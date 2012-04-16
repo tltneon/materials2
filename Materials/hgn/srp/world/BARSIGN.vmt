@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "srp/world/barsign"
+	"$surfaceprop" "Metal"
+	"$surfaceprop2" "MetalPanel"
+	"%keywords" "bar"
+}

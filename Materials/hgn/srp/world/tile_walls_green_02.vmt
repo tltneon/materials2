@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hgn\srp\world\tile_walls_green_02"
+	"$bumpmap" "hgn\srp\world\tile_walls_green_02_bump"
+}
