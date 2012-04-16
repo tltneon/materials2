@@ -3,5 +3,5 @@
 	"$hdrbaseTexture"	"skybox/yantar_hdrrt"
 	"$baseTexture" 		"skybox/yantar_rt"
 	"$nofog" 		"1"
-	"$ignorez" 		"1"
+	"$ignorez" 	"1"
 }
