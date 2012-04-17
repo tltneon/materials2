@@ -1,7 +1,7 @@
 "LightmappedGeneric"
 {
 	"$basetexture" "srp/metal/13"
-	"$surfaceprop" "metal"
+	"$surfaceprop" "metalgrate"
 	"$bumpmap" "srp/metal/13_b"
 	"$alphatest" 1
 	"$envmap" "env_cubemap"
