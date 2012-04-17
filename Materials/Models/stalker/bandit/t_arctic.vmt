@@ -1,8 +1,7 @@
 VertexLitGeneric
 {
 	"$basetexture"	"models\stalker\bandit\t_arctic"
-
-	 "$bumpmap" "models/stalker\bandit\t_arctic_normal"
+	"$bumpmap" "models/stalker\bandit\t_arctic_normal"
 	"$phong" "1"
 	"$phongboost" "0.8"
 	"$phongexponent" 5
