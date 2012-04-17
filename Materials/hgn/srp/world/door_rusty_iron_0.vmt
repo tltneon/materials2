@@ -1,7 +1,7 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "hgn\srp\world\door_rusty_iron_0"
-	"$bumpmap" "hgn\srp\world\door_rusty_iron_0_bump"
+	"$basetexture" "srp\world\door_rusty_iron_0"
+	"$bumpmap" "srp\world\door_rusty_iron_0_bump"
 	"$surfaceprop" "Metal"
 
 }
