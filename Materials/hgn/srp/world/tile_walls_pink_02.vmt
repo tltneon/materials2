@@ -1,5 +1,5 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "hgn\srp\world\tile_walls_pink_02"
-	"$bumpmap" "hgn\srp\world\tile_walls_pink_02_bump"
+	"$basetexture" "srp\world\tile_walls_pink_02"
+	"$bumpmap" "srp\world\tile_walls_pink_02_bump"
 }

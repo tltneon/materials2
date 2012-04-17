@@ -1,7 +1,7 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "hgn\srp\world\wall_wallpaper_03"
-	"$bumpmap" "hgn\srp\world\wall_wallpaper_03_bump"
+	"$basetexture" "srp\world\wall_wallpaper_03"
+	"$bumpmap" "srp\world\wall_wallpaper_03_bump"
 	"$surfaceprop" "plaster"
 
 }
