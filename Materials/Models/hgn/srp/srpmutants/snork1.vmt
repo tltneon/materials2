@@ -1,7 +1,7 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "models/Snork/act_gasmask"
-	"$bumpmap" "models\Snork\act_gasmask_n"
+	"$basetexture" 				"models/hgn/srp/srpmutants/snork1"
+	"$bumpmap" "models/hgn/srp/srpmutants/snork_normal"
 	"$model" "1"
 	"$halflambert" "1"
 	"$phong" "1"
