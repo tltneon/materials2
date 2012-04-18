@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+   "$basetexture" "models\humans\female\miranda\HMF_HED_PROMiranda_Lashes"
+   "$alphatest" "1" 
+   "$nocull" "1"
+}

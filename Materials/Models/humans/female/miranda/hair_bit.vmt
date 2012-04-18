@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+   "$basetexture" "models\humans\female\miranda\hair_bit"
+   "$halflambert" "1"
+}
