@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Weapons/v_models/Guass/wpn_gauss"
+
+	"$selfillum" 1
+
+}
