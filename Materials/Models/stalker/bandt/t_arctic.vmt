@@ -1,5 +1,18 @@
-VertexLitGeneric
+"VertexlitGeneric"
 {
-	"$basetexture"	"models\stalker\bandt\t_arctic"
-	 "$bumpmap" "models/stalker/bandt\t_arctic_normal"
+	"$basetexture" 				"models/hgn/srp/player/banditlower0"
+	"$bumpmap" 					"models/hgn/srp/player/banditlower_normal"
+	
+	"$halflambert" 				"1"	
+	
+    "$phong" 					"1"
+	"$phongexponenttexture" 	"models/hgn/srp/player/banditlower_normal"
+	"$phongboost"				"1"
+	"$phongfresnelranges"		"[0.4 0.4 0.4]"
+	"$rimlight" 				"1"
+	"$rimlightexponenttexture" 	"models/hgn/srp/player/banditlower_normal"									
+	"$rimlightexponent" 		"0.5"								
+	"$rimlightboost" 			"0.1"
+
+		
 }
