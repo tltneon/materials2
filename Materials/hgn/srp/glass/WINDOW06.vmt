@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "hgn\srp\glass\window06"
+	"$basetexture" "srp\glass\window06"
 	"$bumpmap" "hgn\srp\glass\window06_b"
 	"$surfaceprop" "glass"
 	"$translucent" 1
