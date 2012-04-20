@@ -2,4 +2,5 @@
 {
 	"$basetexture" "srp/nature/grnd_asphalt01"
 	"$surfaceprop" "Concrete"
+	"$bumpmap"		"srp/nature/grnd_generic_bump"
 }
