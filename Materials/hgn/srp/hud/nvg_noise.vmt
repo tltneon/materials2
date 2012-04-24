@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "hgn/srp/hud/nvg_noise"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$translucent" 1
+}
