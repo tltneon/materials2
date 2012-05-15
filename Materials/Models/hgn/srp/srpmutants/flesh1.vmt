@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"models/hgn/srp/srpmutants/flesh1"
+
+	"$halflambert" 				"1"	
+
+}
