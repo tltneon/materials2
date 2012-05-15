@@ -1,4 +1,5 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "models\hgn\srp\items\snorkfoot"
+	"$basetexture" 	"models/hgn/srp/srpmutants/snork1"
+	"$bumpmap"      "models/hgn/srp/srpmutants/snork_normal"
 }
