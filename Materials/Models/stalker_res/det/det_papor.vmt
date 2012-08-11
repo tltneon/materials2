@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/stalker_res/det/det_papor"
+	//"$translucent" 1
+        "$alphatest" 1
+}

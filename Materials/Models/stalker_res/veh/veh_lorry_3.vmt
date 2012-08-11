@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/stalker_res/veh/veh_lorry_3"
+      	"$bumpmap" "models/stalker_res/veh/veh_lorry_3_normal"
+}

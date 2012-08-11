@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/mtl/mtl_big_containers_a"
+
+	"$phong" "1"
+	//"$phongexponent" "10"
+	"$phongboost" "4"	
+	"$phongfresnelranges"	"[1 1 1]"
+      	"$bumpmap" "models/stalker_res/mtl/mtl_big_containers_a_normal"
+}

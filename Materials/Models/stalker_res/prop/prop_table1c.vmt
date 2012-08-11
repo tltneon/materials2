@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/prop/prop_table1c"
+
+	"$detail" "models/stalker_res/detail/detail_wood_det2_v"
+	"$detailscale" "1"
+	"$detailblendfactor" 1.5
+	"$detailblendmode" 0
+
+      	//"$bumpmap"     "models/stalker_res/detail/detail_wood_det2_v_normal"
+        //"$nodiffusebumplighting" 1
+}

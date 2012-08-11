@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/wind/wind_gr04"
+        //"$bumpmap"	"models/stalker_res/wind/wind_gr04_normal"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
+	"$envmapmask" "models/stalker_res/wind/wind_gr04_mask"
+	//"$envmaptint" "[.4 .4 .35]"
+	"$nocull" 1
+}

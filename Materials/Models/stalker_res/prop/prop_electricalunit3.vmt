@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/prop/prop_electricalunit3"
+      	"$bumpmap" "models/stalker_res/prop/prop_electricalunit3_normal"
+}

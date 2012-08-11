@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/ston/ston_stena_marbl_m_03"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models/stalker_res/ston/ston_stena_marbl_m_03_normal"
+	//"$phongexponent" "10"
+	"$phongboost" "0.8"	
+	"$phongfresnelranges"	"[1 1 1]"
+      	"$bumpmap" "models/stalker_res/ston/ston_stena_marbl_m_03_normal"
+}

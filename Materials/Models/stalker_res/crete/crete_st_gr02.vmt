@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/stalker_res/crete/crete_st_gr02"
+      	"$bumpmap" "models/stalker_res/crete/crete_st_gr02_normal"
+
+	"$detail" "models/stalker_res/detail/detail_beton_det4_u"
+	"$detailscale" "1.5"
+	"$detailblendfactor" 3
+	"$detailblendmode" 0
+
+	"$surfaceprop" "concrete"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/stalker_res/grnd/grnd_rocks_02"
+      	"$bumpmap" "models/stalker_res/grnd/grnd_rocks_02_normal"
+}

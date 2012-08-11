@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/stalker_res/trees/trees_bark_topol"
+
+	"$detail" "models/stalker_res/trees/trees_det1"
+	"$detailscale" "1"
+	"$detailblendfactor" 2.5
+	"$detailblendmode" 0
+}
