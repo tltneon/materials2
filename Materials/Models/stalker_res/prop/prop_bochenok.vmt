@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/prop/prop_bochenok"
+	//"$phong" "1"
+	//"$phongexponent" "10"
+	//"$phongboost" "2"
+	//"$phongboost" "0.5"	
+	//"$phongfresnelranges"	"[1 1 1]"
+      	"$bumpmap" "models/stalker_res/prop/prop_bochenok_normal"
+}

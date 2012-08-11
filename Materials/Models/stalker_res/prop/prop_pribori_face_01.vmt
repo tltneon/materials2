@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/prop/prop_pribori_face_01"
+      	"$bumpmap" "models/stalker_res/prop/prop_pribori_face_01_normal"
+
+	//"$envmap" "env_cubemap"
+	//"$envmapmask" "models/stalker_res/prop/prop_pribori_face_01_mask"
+	//"$envmaptint" "[.4 .4 .35]"
+
+	//"$phong" "1"
+	//"$phongexponenttexture" "models/stalker_res/prop/prop_pribori_face_01_mask"
+        //"$phongtint" "[1 1 1]"
+        //"$phongboost" 1
+        //"$phongfresnelranges" "[1 1.5 2]"
+}

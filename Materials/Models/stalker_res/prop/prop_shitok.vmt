@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/prop/prop_shitok"
+      	"$bumpmap" "models/stalker_res/prop/prop_shitok_normal"
+}

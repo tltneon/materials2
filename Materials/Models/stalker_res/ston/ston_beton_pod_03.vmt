@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/stalker_res/crete/crete_beton_pod_03"
+      	"$bumpmap" "models/stalker_res/crete/crete_beton_pod_03_normal"
+}

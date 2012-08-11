@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/stalker_res/crete/crete_walls_02"
+        "$bumpmap" "models/stalker_res/crete/crete_walls_02_normal"
+
+	"$surfaceprop" "concrete"
+
+        //"$ssbump"		"1"
+        //"$bumpmap" "models/stalker_res/crete/crete_walls_02_ssbump"
+}

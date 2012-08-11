@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/ston/ston_zabor_02"
+      	"$bumpmap" "models/stalker_res/ston/ston_zabor_02_normal"
+
+	"$surfaceprop" "concrete"
+}

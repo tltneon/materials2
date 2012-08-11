@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/prop/prop_el_shkaf_01"
+      	"$bumpmap" "models/stalker_res/prop/prop_el_shkaf_01_normal"
+
+	//"$selfillum" "1"
+        //"$selfillummask" "models/stalker_res/prop/prop_el_shkaf_01_mask"
+	//"$selfIllumFresnel" "1"
+	//"$selfIllumFresnelMinMaxExp" "[0.2 2.2 3]" // 0.0 1.0 1.0 is the default
+	//"$selfillumtint"	"[1.15 1.15 0.55]"
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/ston/ston_floor_01gr"
+
+	"$detail" "models/stalker_res/detail/detail_tile_det4"
+	"$detailscale" "3"
+	"$detailblendfactor" 2
+	"$detailblendmode" 0
+
+      	"$bumpmap" "models/stalker_res/ston/ston_floor_03_normal"
+}

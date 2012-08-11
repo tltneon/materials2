@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/detail/detail_grnd_loam_whole"
+      	"$bumpmap"     "models/stalker_res/detail/detail_grnd_loam_whole_normal"
+}

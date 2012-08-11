@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/mtl/mtl_tubes3c"
+
+      	"$bumpmap" "models/stalker_res/mtl/mtl_tubes3b_normal"
+
+	"$detail" "models/stalker_res/detail/detail_metall_det2"
+	"$detailscale" "3"
+	"$detailblendfactor" 2
+	"$detailblendmode" 0
+}

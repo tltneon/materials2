@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/mtl/mtl_stena_ch_04"
+      	"$bumpmap" "models/stalker_res/mtl/mtl_stena_ch_04_normal"
+        "$surfaceprop" metal
+}

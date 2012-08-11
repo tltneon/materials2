@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/mtl/mtl_tubes3b"
+
+       // "$ssbump"		"1"
+      	"$bumpmap" "models/stalker_res/mtl/mtl_tubes3b_normal"
+}

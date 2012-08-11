@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/stalker_res/trees/trees_kamish_sux"
+	//"$translucent" 1
+        "$alphatest" 1
+}

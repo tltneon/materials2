@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/mtl/mtl_vorota_a"
+      	"$bumpmap" "models/stalker_res/mtl/mtl_vorota_a_normal"
+
+	"$detail" "models/stalker_res/detail/detail_metall_det2"
+	"$detailscale" "7"
+	"$detailblendfactor" 1
+	"$detailblendmode" 0
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/item/item_mks10"
+             $selfillum 1
+             $surfaceprop glass
+             $selfillumtint "[2 0 0]"
+}

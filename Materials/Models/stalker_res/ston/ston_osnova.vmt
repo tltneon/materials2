@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/ston/ston_osnova"
+      	"$bumpmap" "models/stalker_res/ston/ston_osnova_normal"
+
+	"$detail" "models/stalker_res/detail/detail_beton_det4"
+	"$detailscale" "6"
+	//"$detailscale" "1.5"
+	"$detailblendfactor" 2
+	"$detailblendmode" 0
+
+	"$surfaceprop" "concrete"
+}

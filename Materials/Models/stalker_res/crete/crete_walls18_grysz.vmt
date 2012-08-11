@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/stalker_res/crete/crete_walls18_grysz"
+      	"$bumpmap" "models/stalker_res/crete/crete_walls18_grysz_normal"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/ston/ston_stena_marbl_m_03_back"
+      	"$bumpmap" "models/stalker_res/ston/ston_stena_marbl_m_03_back_normal"
+}

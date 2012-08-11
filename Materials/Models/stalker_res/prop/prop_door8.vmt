@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/prop/prop_door8"
+
+	"$detail" "models/stalker_res/detail/detail_wood_det2_v"
+	"$detailscale" "1"
+	"$detailblendfactor" 1
+	"$detailblendmode" 0
+}
