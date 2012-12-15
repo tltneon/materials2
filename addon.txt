@@ -1,0 +1,9 @@
+"AddonInfo" 
+{
+	"name"			"HGN STALKER Content Pack" 
+	"version"		"4.0"
+	"up_date"			"16/March/2012"
+	"author_name"		"Last.Exile" 
+	"author_url"		"www.hypergamer.net" 
+	"info"			"" 
+}
