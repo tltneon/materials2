@@ -1,5 +1,5 @@
 "VertexlitGeneric"
 {
 	"$basetexture" "models\hgn\srp\items\energy"
-	"$basetexture" "models\hgn\srp\items\energy-b"
+	//"$basetexture" "models\hgn\srp\items\energy-b"
 }
