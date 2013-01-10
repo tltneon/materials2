@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-"$basetexture""hgn/srp/hud/gearicon"
+"$basetexture""hgn/srp/hud/navgearicon"
 "$vertexcolor" 1
 "$vertexalpha" 1
 "$nolod" 1
