@@ -722,7 +722,7 @@ sound.Add(
     channel = CHAN_WEAPON,
     volume = 1.0,
     soundlevel = 80,
-    sound = "hgn/stalker/weapons/sig550/sg550_shot.wav"
+    sound = "hgn/stalker/weapons/sig550/sig550_shot.wav"
 })
 
 sound.Add(
