@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$basetexture "effects/veinvignette"
+	$translucent 1
+	$alpha 0.8
+	$color2 [0 0 0]
+}
