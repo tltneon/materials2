@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" 		"skybox/sky_001up"
+	"$hdrbasetexture"	"skybox/sky_001up"
+	"$nofog" 		1
+}
