@@ -2,5 +2,6 @@
 {
 	"$basetexture"		"skybox/sky_001ft"
 	"$hdrbasetexture"	"skybox/sky_001ft"
-	"$nofog" 		1
+	"$nofog" "1"
+    "$ignorez" "1"
 }
