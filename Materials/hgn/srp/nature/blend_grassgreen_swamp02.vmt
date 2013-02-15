@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture" 		"srp/nature/grnd_dirt_swamp02"
+	"$basetexture2" 		"hgn/srp/nature/grassgreen"
+	"$surfaceprop" 		"dirt"
+	"$surfaceprop2" 		"grass"
+	"$bumpmap"		"srp/nature/grnd_generic_bump"
+	"$bumpmap2"		"srp/nature/grnd_generic_bump"
+	"%detailtype"		"mainland"
+}
