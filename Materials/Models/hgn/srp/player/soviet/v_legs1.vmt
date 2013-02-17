@@ -1,7 +1,7 @@
-"VertexLitGeneric"
+"VertexlitGeneric"
 {
-	"$basetexture" "models/comask/gasmask"
-	"$bumpmap" "models/comask/gasmask_normal"
+	"$basetexture" "models/hgn/srp/player/soviet/v_legs1"
+	"$bumpmap"    "models/hgn/srp/player/soviet/v_legs1_n"
 	"$model" "1"
 	"$halflambert" "1"
 	"$phong" "1"

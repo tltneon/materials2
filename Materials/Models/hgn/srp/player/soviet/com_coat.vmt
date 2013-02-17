@@ -1,7 +1,7 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "models/comask/com_coat"
-	"$bumpmap"    "models/comask/com_coat_n"
+	"$basetexture" "models/hgn/srp/player/soviet/com_coat"
+	"$bumpmap"    "models/hgn/srp/player/soviet/com_coat_n"
 	"$model" "1"
 	"$halflambert" "1"
 	"$phong" "1"
