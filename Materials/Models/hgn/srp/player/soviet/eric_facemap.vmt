@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
 	// Original shader: VertexLitTexture
-	"$basetexture" "models/comask/eric_facemap"
+	"$basetexture" "models/hgn/srp/player/soviet/eric_facemap"
 	"$halflambert" 1
 }
