@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\hgn\srp\player\assaultarmor\ct_sas_glass_norm"
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "models\hgn\srp\player\assaultarmor\ct_sas_glass_spec"
+	"$translucent" 1
+}
+
