@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+    "$baseTexture" "models\hgn\srp\player\tac_rbe\citizen_sheet"
+	"$bumpmap" "models\hgn\srp\player\tac_rbe\citizen_sheet_normal"
+	"$surfaceprop" "flesh"
+	"$model" 0.5
+	"$selfillum" 0.5
+	"$phong" "0.05"
+	"$phongboost" "0.05"	
+	"$phongfresnelranges"	"[3 5 8]"
+	"$phongalbedotint" "0.5"
+}
+
+
+
