@@ -1,5 +1,0 @@
-"vertexlitgeneric"
-{
-	"$baseTexture" "models/player/Hoods3/ct_sas"
-                "$bumpmap" "models/player/Hoods3/ct_sas_normal"
-}
