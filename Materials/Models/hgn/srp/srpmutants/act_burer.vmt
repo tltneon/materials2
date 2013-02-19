@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/hgn/srp/srpmutants/act_burer"
+
+	"$model" 1
+
+	"$phongexponenttexture" "models/hgn/srp/srpmutants/act_burer_exp"
+        "$bumpmap" "models/hgn/srp/srpmutants/act_burer_nmap"
+
+        "$ambientocclusion" 1
+
+	"$halflambert" 0
+
+        "$phong" 1
+        "$phongfresnelranges" "[.2 .5 5]"
+        "$phongtint" "[1 1 1]"
+        "$phongboost" 6
+}
