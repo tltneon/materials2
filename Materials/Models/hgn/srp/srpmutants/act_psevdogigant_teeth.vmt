@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\hgn\srp\srpmutants\act_psevdogigant_teeth"
+        "$bumpmap" "models\hgn\srp\srpmutants\act_psevdogigant_teeth_normal"
+
+	"$halflambert" 0
+	"$model" 1
+	"$translucent" 1
+}
