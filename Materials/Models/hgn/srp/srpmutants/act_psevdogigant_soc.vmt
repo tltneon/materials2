@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\hgn\srp\srpmutants\act_psevdogigant_soc"
+        "$bumpmap" "models\hgn\srp\srpmutants\act_psevdogigant_soc_normal"
+
+	"$halflambert" 0
+	"$model" 1
+
+        "$ambientocclusion" 1
+
+        "$phong" 1
+        "$phongfresnelranges" "[.2 .5 5]"
+        "$phongtint" "[1 1 1]"
+        "$phongboost" 5
+
+}
