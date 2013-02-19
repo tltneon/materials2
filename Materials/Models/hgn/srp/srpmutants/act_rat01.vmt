@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hgn/srp/srpmutants/act_rat01"
+
+	"$halflambert" 1
+
+}
