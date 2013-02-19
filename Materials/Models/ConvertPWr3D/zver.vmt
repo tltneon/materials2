@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
-	"$baseTexture" "Materials\Models\hgn\srp\vehicles\zver"
-        "$envmap" "env_cubemap"
-        "$envmapcontrast" "1"
+	"$baseTexture" "models\hgn\srp\vehicles\zver"
+    "$envmap" "env_cubemap"
+    "$envmapcontrast" "1"
 	"$envmapmask" "models/ConvertPWr3D\mask"
 }
