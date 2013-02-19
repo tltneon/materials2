@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hgn/srp/srpmutants/chimera1"
+	"$bumpmap" "models/hgn/srp/srpmutants/chimera_n"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "1" 
+
+	"$halflambert" "1"
+	"$phongfresnelranges" "[0.4 2.1 30]"
+
+	"$halflambert" 1
+
+	"$rimlight" "1"
+	"$rimlightexponent" "0.5"
+	"$rimlightboost" "0.5"
+}
