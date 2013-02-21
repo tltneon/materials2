@@ -2,8 +2,7 @@
 {
 	"$basetexture" 				"models/hgn/srp/srpmutants/pseudodog1"
 	"$bumpmap" 					"models/hgn/srp/srpmutants/pseudodog_normal"
-	
-	
+		
     "$phong" 					"1"
 	"$phongexponenttexture" 	"models/hgn/srp/srpmutants/pseudodog_normal"
 	"$phongboost"				"2"
