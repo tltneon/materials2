@@ -1,5 +1,6 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "models\hgn\srp\items\boar"
-	"$bumpmap" "models\hgn\srp\items\boar-b"
+	"$basetexture"	"models\hgn\srp\srpmutants\boar1"
+	"$bumpmap"		"models\hgn\srp\srpmutants\boar1_n"
+	"$halflambert" 	"1"	
 }
