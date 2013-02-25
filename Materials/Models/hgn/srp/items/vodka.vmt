@@ -1,7 +1,9 @@
-"VertexlitGeneric"
+"VertexLitGeneric"
 {
-	"$basetexture" "models\hgn\srp\items\toblerone"
+	"$basetexture" "models\hgn\srp\items\vodka.vtf"
 	
+	"$bumpmap" "models\hgn\srp\items\vodka_n.vtf"
+
 	"$phong" "1"
 	"$phongboost"	"1"
 	"$phongfresnelranges"	"[0.05 0.5 1]"
