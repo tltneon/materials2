@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\srp\items\wpn_items"
+	"$nocull" 1
+}
