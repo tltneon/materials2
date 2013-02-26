@@ -1,0 +1,7 @@
+"WorldScript: SRP"
+{
+	"base"			"base"
+	"title"			"WorldScript: SRP"
+	"maps"			"^srp_"
+	"menusystem" 	"1"
+}
