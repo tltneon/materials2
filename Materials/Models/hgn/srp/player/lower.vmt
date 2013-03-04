@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" 	"models/hgn/srp/player/lower"
+	"$bumpmap"		"models/hgn/srp/player/lower_n"
+	
+$nocull 1
+}

@@ -836,6 +836,33 @@ sound.Add(
 -- TOZ Sawnoff  Skipped until later
 -----------------------------
 
+sound.Add(
+{
+    name = "Weapon_Toz.Single",
+    channel = CHAN_WEAPON,
+    volume = 1.0,
+    soundlevel = 80,
+    sound = "hgn/stalker/weapons/toz34/toz34_shoot.wav"
+})
+
+sound.Add(
+{
+    name = "Weapon_Toz.Insertshell",
+    channel = CHAN_WEAPON,
+    volume = 1.0,
+    soundlevel = 80,
+    sound = "hgn/stalker/weapons/toz34/toz34_reload_1.wav" 
+})
+
+sound.Add(
+{
+    name = "Weapon_Toz.Deploy",
+    channel = CHAN_WEAPON,
+    volume = 1.0,
+    soundlevel = 80,
+    sound = "hgn/stalker/weapons/toz34/toz34_draw.wav"
+})
+
 -----------------------------
 -- VSS Vintorez
 -----------------------------

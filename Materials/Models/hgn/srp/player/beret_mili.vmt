@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models/hgn/srp/player/beret_mili"
+
+	"$model" 1
+	"$surfaceprop" "carpet"
+	"$halflambert" 1
+}

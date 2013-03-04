@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+
+	"$basetexture" 	"models/hgn/srp/player/upper"
+	"$bumpmap"		"models/hgn/srp/player/upper_n"
+
+
+
+$nocull 1
+}
