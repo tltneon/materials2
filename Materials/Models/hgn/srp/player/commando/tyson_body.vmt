@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hgn/srp/player/commando/tyson_body"
+	"$bumpmap" "models/hgn/srp/player/commando/tyson_body_bump"
+
+ 	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost"	".3"
+	"$phongfresnelranges"	"[.15 .45 1]"
+}

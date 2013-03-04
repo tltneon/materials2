@@ -1,0 +1,13 @@
+"vertexlitGeneric"
+{
+	"$basetexture" 				"models/hgn/srp/player/msuit_clips2"
+
+	"$halflambert" 				"1"	
+	
+    "$phong" 					"1"
+	"$phongboost"				"2"
+	"$phongfresnelranges"		"[0.4 0.4 0.4]"
+	"$rimlight" 				"1"								
+	"$rimlightexponent" 		"0.5"								
+	"$rimlightboost" 			"0.1"
+}
