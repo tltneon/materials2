@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "models\hgn\srp\donator\female1\asian_facemap"
+	"$basetexture" "models\hgn\srp\donator\female2\white_facemap"
 	"$model" "1"
 	"$nocull" "1"
 	"$halflambert" "1"
