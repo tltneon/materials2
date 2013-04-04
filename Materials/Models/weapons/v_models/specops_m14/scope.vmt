@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\weapons\v_models\SpecOps_M14\scope"
+
+	"$halflambert" "1"
+	"$nocull" "1"
+}
