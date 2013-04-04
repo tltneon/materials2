@@ -401,6 +401,55 @@ sound.Add(
 })
 
 -----------------------------
+-- FN-FAL
+-----------------------------
+
+sound.Add(
+{
+    name = "Weapon_Fnfal.Single",
+    channel = CHAN_WEAPON,
+    volume = 1.0,
+    soundlevel = 80,
+    sound = "hgn/stalker/weapons/fnfal/fnfal-1.wav"
+})
+
+sound.Add(
+{
+    name = "Weapon_Bnfal.cliptap",
+    channel = CHAN_WEAPON,
+    volume = 1.0,
+    soundlevel = 80,
+    sound = "hgn/stalker/weapons/fnfal/fnfal_cliptap.wav"
+})
+
+sound.Add(
+{
+    name = "Weapon_Fnfal.Clipout",
+    channel = CHAN_WEAPON,
+    volume = 1.0,
+    soundlevel = 80,
+    sound = "hgn/stalker/weapons/fnfal/fnfal_clipout"
+})
+
+sound.Add(
+{
+    name = "Weapon_Fnfal.Clipin",
+    channel = CHAN_WEAPON,
+    volume = 1.0,
+    soundlevel = 80,
+    sound = "hgn/stalker/weapons/fnfal/fnfal_clipin"
+})
+
+sound.Add(
+{
+    name = "Weapon_fnfal.boltpull",
+    channel = CHAN_WEAPON,
+    volume = 1.0,
+    soundlevel = 80,
+    sound = "hgn/stalker/weapons/fnfal/fnfal_boltpull.wav"
+})
+
+-----------------------------
 -- G36C
 -----------------------------
 
@@ -517,7 +566,7 @@ sound.Add(
     channel = CHAN_WEAPON,
     volume = 1.0,
     soundlevel = 80,
-    sound = "hgn/stalker/weapons/l85/aug-1.wav"
+    sound = "hgn/stalker/weapons/l85/L85.wav"
 })
 
 sound.Add(
@@ -873,7 +922,7 @@ sound.Add(
     channel = CHAN_WEAPON,
     volume = 0.8,
     soundlevel = 80,
-    sound = "hgn/stalker/weapons/vintorez/sg550-1.wav"
+    sound = "hgn/stalker/weapons/vintorez/vintorez_fire.wav"
 })
 
 sound.Add(
