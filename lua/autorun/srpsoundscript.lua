@@ -450,6 +450,47 @@ sound.Add(
 })
 
 -----------------------------
+-- Garand
+-----------------------------
+
+sound.Add(
+{
+    name = "Weapon_Garand.Single",
+    channel = CHAN_WEAPON,
+    volume = 1.0,
+    soundlevel = 80,
+    sound = "hgn/stalker/weapons/garand/garand_shoot.wav"
+})
+
+sound.Add(
+{
+    name = "Weapon_Garand.Clipout",
+    channel = CHAN_WEAPON,
+    volume = 1.0,
+    soundlevel = 80,
+    sound = "hgn/stalker/weapons/groza/famas_clipout.wav"
+})
+
+sound.Add(
+{
+    name = "Weapon_Garand.Clipin",
+    channel = CHAN_WEAPON,
+    volume = 1.0,
+    soundlevel = 80,
+    sound = "hgn/stalker/weapons/groza/famas_clipin.wav"
+})
+
+sound.Add(
+{
+    name = "Weapon_Garand.Boltpull",
+    channel = CHAN_WEAPON,
+    volume = 1.0,
+    soundlevel = 80,
+    sound = "hgn/stalker/weapons/g36/boltpull.wav"
+})
+
+
+-----------------------------
 -- G36C
 -----------------------------
 
