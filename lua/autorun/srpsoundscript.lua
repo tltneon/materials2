@@ -415,7 +415,7 @@ sound.Add(
 
 sound.Add(
 {
-    name = "Weapon_Bnfal.cliptap",
+    name = "Weapon_Fnfal.Cliptap",
     channel = CHAN_WEAPON,
     volume = 1.0,
     soundlevel = 80,
@@ -442,7 +442,7 @@ sound.Add(
 
 sound.Add(
 {
-    name = "Weapon_fnfal.boltpull",
+    name = "Weapon_Fnfal.Boltpull",
     channel = CHAN_WEAPON,
     volume = 1.0,
     soundlevel = 80,
