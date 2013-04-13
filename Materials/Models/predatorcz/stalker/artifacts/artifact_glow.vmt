@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/predatorcz\stalker\artifacts/artifact_glow"
+	"$translucent" 1
+
+}

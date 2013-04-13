@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/predatorcz/stalker/artifacts/artifact_lava"
+		$selfillum 1
+  $selfillumtint "[ 1 1 0 ]"
+
+	
+	 "$frame" "18"
+	"Proxies"
+	{
+	"AnimatedTexture"
+		{
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frame"
+			"animatedTextureFrameRate" "30"
+		}
+	}
+}

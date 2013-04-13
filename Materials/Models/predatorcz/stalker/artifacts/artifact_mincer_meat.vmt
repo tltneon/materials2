@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/predatorcz/stalker/artifacts/artifact_mincer_meat"
+	//"$bumpmap" "models/predatorcz/stalker/artifacts/artifact_mincer_meat_n"	
+}

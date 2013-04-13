@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/predatorcz/stalker/artifacts/artifact_simple2"
+  $selfillum 1
+  $selfillumtint "[ 30 30 30 ]"
+
+
+}
