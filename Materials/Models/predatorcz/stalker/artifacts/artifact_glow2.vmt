@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/predatorcz/stalker/artifacts/artifact_glow2"
+	"$additive" 1
+		"$selfillum" 1
+    	"$nocull" 1
+}

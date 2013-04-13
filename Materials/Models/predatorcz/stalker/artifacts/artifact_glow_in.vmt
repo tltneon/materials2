@@ -1,0 +1,6 @@
+"unlitGeneric"
+{
+	"$basetexture" "models/predatorcz\stalker\artifacts/artifact_glow"
+	"$additive" 1
+  	"$nocull" 1
+}

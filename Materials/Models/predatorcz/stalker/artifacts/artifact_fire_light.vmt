@@ -1,0 +1,7 @@
+"unlitGeneric"
+{
+	"$basetexture" "models/predatorcz\stalker\artifacts/artifact_fire_light"
+	"$translucent" 1
+   	"$nocull" 1
+
+}

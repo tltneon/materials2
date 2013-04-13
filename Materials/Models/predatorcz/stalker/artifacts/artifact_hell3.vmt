@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/predatorcz\stalker\artifacts/artifact_hell1.vtf"
+	$additive 1
+	
+"$frame" "10"
+	"Proxies"
+	{
+	"AnimatedTexture"
+		{
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frame"
+			"animatedTextureFrameRate" "30"
+		}
+	}	
+	
+
+}
