@@ -603,7 +603,7 @@ sound.Add(
 
 sound.Add(
 {
-    name = "Weapon_L85.Single",
+    name = "Weapon_L852.Single",
     channel = CHAN_WEAPON,
     volume = 1.0,
     soundlevel = 80,
@@ -612,7 +612,7 @@ sound.Add(
 
 sound.Add(
 {
-    name = "Weapon_L85.Boltpull",
+    name = "Weapon_L852.Boltpull",
     channel = CHAN_WEAPON,
     volume = 1.0,
     soundlevel = 80,
@@ -621,7 +621,7 @@ sound.Add(
 
 sound.Add(
 {
-    name = "Weapon_L85.Clipout",
+    name = "Weapon_L852.Clipout",
     channel = CHAN_WEAPON,
     volume = 1.0,
     soundlevel = 80,
@@ -630,7 +630,7 @@ sound.Add(
 
 sound.Add(
 {
-    name = "Weapon_L85.Clipin",
+    name = "Weapon_L852.Clipin",
     channel = CHAN_WEAPON,
     volume = 1.0,
     soundlevel = 80,
@@ -639,7 +639,7 @@ sound.Add(
 
 sound.Add(
 {
-    name = "Weapon_L85.Boltslap",
+    name = "Weapon_L852.Boltslap",
     channel = CHAN_WEAPON,
     volume = 1.0,
     soundlevel = 80,
@@ -648,7 +648,7 @@ sound.Add(
 
 sound.Add(
 {
-    name = "Weapon_L85.Forearm",
+    name = "Weapon_L852.Forearm",
     channel = CHAN_WEAPON,
     volume = 1.0,
     soundlevel = 80,
