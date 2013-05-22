@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hgn/srp/player/act_krovosos_red"
+	"$halflambert" 1
+	"$bumpmap"	"models/hgn/srp/player/act_krovosos_red_normal"
+	"$model" "1"
+//	"$ambientocclusiontexture" "models/bsucker/act_krovosos_red_occ"
+	"$phong" "1"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[0.16 0.16 0.16]"
+	"$phongexponent" "20"
+	"$rimlight" "1"									
+	"$rimlightexponent" "5"								
+	"$rimlightboost" "2"
+}
